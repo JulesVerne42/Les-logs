@@ -21,7 +21,6 @@
    `http://192.168.1.85`  
 
 ## Controler les logs
-1. Access.log
 
 ![image](https://github.com/user-attachments/assets/e885e0fa-21e5-41a2-b463-754d2754ff3e)  
 Sur l'image ci-dessus, l'on observe les logs générés par la connection `192.168.1.180` depuis le navigateur `Firefox 133.0` via un system `Linux`  
